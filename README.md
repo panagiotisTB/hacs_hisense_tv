@@ -27,7 +27,7 @@ The TV provides a MQTT broker on port `36669`. Home Assistant can only communica
 
 ## MQTT
 
-The MQTT broker is secured by credentials. Some TVs (like mine) even require client certificates for incomming connections. I won't include them in this repo, but you can find them online or extract them yourself. See [Acknowledgment](https://github.com/sehaas/ha_hisense_tv#acknowledgment).
+The MQTT broker is secured by credentials. Some TVs (like mine) even require client certificates for incomming connections. I won't include them in this repo, but you can find them online or extract them yourself. See [Acknowledgment](https://github.com/panagiotisTB/hacs_hisense_tv#acknowledgment).
 
 Connection shema:
 ```
